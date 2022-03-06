@@ -1,7 +1,7 @@
 ## Olá, sou Rafael Vieira, programador Front-End!
 
 - 👀 Atualmente trabalho com Front-End
-- 🌱 Desenvolvendo um sisteminha para gerenciar despesas => <a href="https://github/rafaeldevcode/controle-contass">Gerenciador de despesas</a>
+- 🌱 Desenvolvendo um sisteminha para gerenciar despesas => <a href="https://github.com/rafaeldevcode/controle-contas">Gerenciador de despesas</a>
 - 💞️ Amante da programação
 
 <div align="center">
