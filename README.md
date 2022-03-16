@@ -46,6 +46,5 @@
   <a href = "https://rafael-vieira.com">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
   </a>
-  
-    ![Snake animation](https://github.com/rafaeldevcode/rafaeldevcode/blob/output/github-contribution-grid-snake.svg)
 </div>
+![Snake animation](https://github.com/rafaeldevcode/rafaeldevcode/blob/output/github-contribution-grid-snake.svg)
