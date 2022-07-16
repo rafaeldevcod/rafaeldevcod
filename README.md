@@ -29,7 +29,7 @@
   <a href="https://instagram.com/rafaeldevcode" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a> 
-  <a href="https://www.facebook.com/rafaelvieirapalmital" target="_blank">
+  <a href="https://www.facebook.com/rafaeldevcode" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
   </a>
   <a href="https://twitter.com/RafaelV98486463" target="_blank">
@@ -44,7 +44,7 @@
   <a href = "mailto:rafaeldevcode@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href = "https://rafael-vieira.com">
+  <a href = "https://rafaeldevcode.ml">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
   </a>
 </div>
