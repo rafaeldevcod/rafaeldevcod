@@ -3,7 +3,8 @@
 - 👀 Atualmente trabalho como programador Front-End
 - 💻 Me aprimorando em Next JS
 - 💞️ Amante da programação
-#
+
+##
 
 <div align="center">
   <a href="https://github.com/rafaeldevcode">
@@ -11,13 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldevcode&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-#
-  
-#### Alguns projetos desenvolvidos
-- ##### Next JS
-  - [Usmoney](https://usmoney.com.br/)
-  - [Mulherama](https://www.mulherama.com.br/)
-#
+##
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="rafaeldevcode-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,6 +30,13 @@
   <img align="center" alt="rafaeldevcode-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
   
+##
+ 
+#### Alguns projetos desenvolvidos
+- ##### Next JS
+  - [Usmoney](https://usmoney.com.br/)
+  - [Mulherama](https://www.mulherama.com.br/)
+ 
 ##
   
 <div align="center"> 
