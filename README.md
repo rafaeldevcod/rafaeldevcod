@@ -3,11 +3,13 @@
 - 👀 Atualmente trabalho como programador Front-End
 - 💻 Me aprimorando em Next JS
 - 💞️ Amante da programação
+#
 
 #### Alguns projetos desenvolvidos
 - ##### Next JS
   - [Usmoney](https://usmoney.com.br/)
   - [Mulherama](https://www.mulherama.com.br/)
+#
 
 <div align="center">
   <a href="https://github.com/rafaeldevcode">
