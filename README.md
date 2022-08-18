@@ -3,6 +3,8 @@
 - 👀 Atualmente trabalho como programador Front-End
 - 💻 Me aprimorando em Next JS
 - 💞️ Amante da programação
+- 💞️ [Perfil secundário](https://github.com/rafaeldevfem/)
+- 💞️ [Site Pessoal](https://www.rafaeldevcode.ml/)
 
 ##
 
